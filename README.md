@@ -1,2 +1,2 @@
-# ml-story-gerneration
-Story generation using GRUs and GPT-2
+# Story Generation
+### Story generation using _GRUs_ and _GPT-2_
